@@ -1,0 +1,2 @@
+# agentscope_werewolves_reward
+competition
