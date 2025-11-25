@@ -2,12 +2,7 @@
 """
 Reward calculation module for the werewolf game.
 
-You should import and call:
-    reward_manager = RewardManager(players)
-    reward_manager.record_night_action(...)
-    reward_manager.record_day_vote(...)
-    reward_manager.record_final_result(winning_side)
-    reward_manager.compute_final_average()
+Details in the group
 """
 
 from collections import defaultdict
