@@ -5,6 +5,7 @@ import asyncio
 import os
 
 from game import werewolves_game
+from reward import RewardManager #update
 
 from agentscope.agent import ReActAgent
 from agentscope.formatter import DashScopeMultiAgentFormatter
