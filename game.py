@@ -2,6 +2,7 @@
 # pylint: disable=too-many-branches, too-many-statements, no-name-in-module
 """A werewolf game implemented by agentscope."""
 import numpy as np
+from reward import RewardManager #update
 
 from utils import (
     majority_vote,
